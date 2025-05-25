@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to bottom, #0b1d3a, #4b5d8f);
+  color: white;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  padding: 20px;
+}
+#garden {
+  margin-top: 50px;
+}
+.touchable {
+  margin: 20px;
+  padding: 20px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 15px;
+  cursor: pointer;
+}
